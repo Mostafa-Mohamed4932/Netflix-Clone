@@ -2,6 +2,7 @@
 <resources>
     <color name="black_background">#000000</color>
     <color name="white">#FFFFF</color>
-    <color name="netflix_red">#DB202C</color>h
+    <color name="netflix_red">#DB202C</color>
+    //hallo
 
 </resources>
