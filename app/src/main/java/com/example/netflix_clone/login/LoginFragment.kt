@@ -19,7 +19,7 @@ class LoginFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        // TODO: Use the ViewModel
+        // TODO: Use the ViewModel, check
     }
 
     override fun onCreateView(
