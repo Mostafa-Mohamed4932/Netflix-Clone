@@ -10,22 +10,5 @@ import com.example.netflix_clone.R
 
 class MoreFragment : Fragment() {
 
-    companion object {
-        fun newInstance() = MoreFragment()
-    }
 
-    private val viewModel: MoreViewModel by viewModels()
-
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-
-        // TODO: Use the ViewModel
-    }
-
-    override fun onCreateView(
-        inflater: LayoutInflater, container: ViewGroup?,
-        savedInstanceState: Bundle?
-    ): View {
-        return inflater.inflate(R.layout.fragment_more, container, false)
-    }
 }
